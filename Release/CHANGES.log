@@ -1,0 +1,68 @@
+commit 45313f503044630b04d49c09c72738a39693f0bd
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:51:10 2018 +0300
+
+    creating and editing the release files and metadata
+
+commit 06845e871fd93cce62aaee68cfbb5c597c19e737
+Merge: 5ee6ac9 dcfbb26
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:47:22 2018 +0300
+
+    Merge branch 'my-third-feature' into develop
+
+commit dcfbb26df8d0b7335de769aba4a82ca8c3d9f40d
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:46:36 2018 +0300
+
+    finish work on the third feature
+
+commit 615dff67a1aae986ad52cbbb51e945cf27561390
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:40:32 2018 +0300
+
+    start working on the third feature!
+
+commit 5ee6ac950d2d8fac7e47742777a60a3bd09f5c0f
+Merge: 5c42036 bcdb2d5
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:25:32 2018 +0300
+
+    Merge branch 'my-second-feature' into develop
+
+commit bcdb2d54033058090cf85fca4f71191c5e2bc53c
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:24:44 2018 +0300
+
+    finish to work on the second feature
+
+commit d38e801b61020303790925836bad0be804bc729a
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:22:01 2018 +0300
+
+    start working on the second feature
+
+commit 5c4203650fbc56a25a5fe7685804efcbe166e1b9
+Merge: bd11d1e 302530f
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:18:01 2018 +0300
+
+    Merge branch 'my-first-feature' into develop
+
+commit 302530fc9ee51e26dea459ef9f3ef065139cf5cc
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:17:14 2018 +0300
+
+    finish to work on the first feature
+
+commit 6988f241e2fcccef19c4c01389b416aacb04f5e9
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:14:48 2018 +0300
+
+    start working on the first feature
+
+commit bd11d1e40aa45499849f1da525de39645a8dfe94
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 17:59:01 2018 +0300
+
+    first commit
