@@ -1,3 +1,41 @@
+commit d71fdb9c442011399313de64a38e6c5e75b4ea86
+Merge: 2c2d7b4 8e02cd7
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:12:34 2018 +0300
+
+    Merge branch 'my-fourth-feature' into develop
+
+commit 8e02cd71f59358ca51da2af368c4707a02551364
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:11:48 2018 +0300
+
+    finish working on the fourth feature
+
+commit fdde0fc569bda26a7a0a3dfd808bc6a183616cc9
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:10:57 2018 +0300
+
+    fix some bugs in the fourth feature
+
+commit 9c9ec4cec589e476632012eff81d51a4f698f350
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 19:10:19 2018 +0300
+
+    start working on fourth feature
+
+commit 2c2d7b4ce2d0b718649782bafada06108375c27f
+Merge: 06845e8 f615778
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:57:18 2018 +0300
+
+    Merge branch 'release-1.0' into develop
+
+commit f615778683410c690c660352491dce945e2a7ee8
+Author: barak menachem <barakmen@post.bgu.ac.il>
+Date:   Tue May 8 18:55:36 2018 +0300
+
+    finish to work on the release files - ready to production
+
 commit 45313f503044630b04d49c09c72738a39693f0bd
 Author: barak menachem <barakmen@post.bgu.ac.il>
 Date:   Tue May 8 18:51:10 2018 +0300
